@@ -1,3 +1,7 @@
 hello
 
+<<<<<<< HEAD
 hello alex
+=======
+testhello
+>>>>>>> d5d6034e8b803525f62c433e6a02fd2a11415073
